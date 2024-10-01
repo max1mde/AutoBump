@@ -1,0 +1,16 @@
+{
+  "name": "auto-bump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bump.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.2.2",
+    "fs": "^0.0.1-security"
+  }
+}
